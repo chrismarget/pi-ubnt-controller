@@ -1,0 +1,3 @@
+[submodule "raspbian-appliance"]
+	path = raspbian-appliance
+	url = https://github.com/chrismarget/raspbian-appliance.git
