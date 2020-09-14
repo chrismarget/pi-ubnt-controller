@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-FETCHED="$(basename $0)/.fetched_submodule"
+FETCHED="$(dirname $0)/.fetched_submodule"
 if [ ! -f "$FETCHED" ]
 then
   git submodule update --init
