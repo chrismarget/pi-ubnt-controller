@@ -1,3 +1,4 @@
 .build.cache
+.fetched_submodule
 wpa_supplicant.conf
 authorized_keys
