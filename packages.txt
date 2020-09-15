@@ -1,0 +1,11 @@
+b72b2173c5c16b04934843849f2f9fd1f7245e1c https://dl.ui.com/unifi/5.14.23/unifi_sysvinit_all.deb
+
+ee89883ffdaf85f9d372ba5f912677f89eef0c70 http://raspbian.mirror.constant.com/raspbian/pool/main/b/boost1.58/libboost-system1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
+ee1f669cd17ca5aeceb98e38340435d5c55728e7 http://raspbian.mirror.constant.com/raspbian/pool/main/b/boost1.58/libboost-filesystem1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
+96fe956fd10719c2d9c71b3f99d32c2aed890e2b http://raspbian.mirror.constant.com/raspbian/pool/main/b/boost1.58/libboost-program-options1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
+5eafcaecf2e489526349acc6b8b56b9ec50a2fcf http://raspbian.mirror.constant.com/raspbian/pool/main/b/boost1.58/libboost-thread1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
+3e13cb91fd345f164571ffc4a67aea4da532f18c http://raspbian.mirror.constant.com/raspbian/pool/main/p/pcre3/libpcrecpp0v5_8.39-12_armhf.deb
+77bd9ab552c117c0ecdcfb21b4ac22421002bfe3 http://raspbian.mirror.constant.com/raspbian/pool/main/s/snappy/libsnappy1v5_1.1.7-1_armhf.deb
+0fc90f918e04e969fd1e2247ac54792140e32daf http://raspbian.mirror.constant.com/raspbian/pool/main/o/openssl1.0/libssl1.0.2_1.0.2q-2_armhf.deb
+fa59a08023c49489c8078c4adcc59cefb3aa5587 http://raspbian.mirror.constant.com/raspbian/pool/main/libv/libv8-3.14/libv8-3.14.5_3.14.5.8-11_armhf.deb
+0450032a000b8c0d9e554703459cee5b8d5a1129 http://raspbian.mirror.constant.com/raspbian/pool/main/m/mongodb/mongodb-clients_2.4.14-4_armhf.deb
