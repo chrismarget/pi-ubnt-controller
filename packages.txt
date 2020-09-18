@@ -1,5 +1,4 @@
 55d3866946a6aff80cf7a5533a349d6f68293c83 http://archive.raspbian.org/raspbian/pool/main/t/tcpdump/tcpdump_4.9.3-1~deb10u1_armhf.deb
-fd82b29ef6ceec06071fc76e471d74eaf6b1ccba https://dl.ui.com/unifi/6.0.20/unifi_sysvinit_all.deb
 ee89883ffdaf85f9d372ba5f912677f89eef0c70 http://archive.raspbian.org/raspbian/pool/main/b/boost1.58/libboost-system1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
 ee1f669cd17ca5aeceb98e38340435d5c55728e7 http://archive.raspbian.org/raspbian/pool/main/b/boost1.58/libboost-filesystem1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
 96fe956fd10719c2d9c71b3f99d32c2aed890e2b http://archive.raspbian.org/raspbian/pool/main/b/boost1.58/libboost-program-options1.58.0_1.58.0%2bdfsg-5.1%2brpi1%2bb4_armhf.deb
@@ -50,3 +49,4 @@ b6584705517d0061042a58a1bcd27543c0b6a42d http://archive.raspbian.org/raspbian/po
 685efdaa01270417cb21242a3541b3895e548967 http://archive.raspbian.org/raspbian/pool/main/h/haveged/haveged_1.9.1-7_armhf.deb
 79b3f97c29593bc35c6bd5304deca0b0e8f569ce http://archive.raspbian.org/raspbian/pool/main/g/glib2.0/libglib2.0-bin_2.58.3-2+deb10u2_armhf.deb
 d266bd1547f7d7e995ef34dc3bccc20d7a6ace91 http://archive.raspbian.org/raspbian/pool/main/p/packagekit/gir1.2-packagekitglib-1.0_1.1.12-5_armhf.deb
+25436765b95d394b2d7521a3809d1b81dfb7ab2f https://dl.ui.com/unifi/6.0.22/unifi_sysvinit_all.deb
